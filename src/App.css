@@ -9,14 +9,14 @@ html {
 }
 
 body {
-  background: #ffffff;
+  background: #e1cdcd;
 }
 
 .header {
-  background-color: #ffffff;
+  background-color: #4cba5b;
   margin: auto -10px;
   padding: 10px 20px;
-  box-shadow: 0 0 2px 0 rgb(110, 110, 110);
+  box-shadow: 0 0 2px 0 rgb(28, 27, 27);
   flex-direction: row;
   display: flex;
   align-items: center;
@@ -93,7 +93,7 @@ form button {
 
 .note p {
   font-size: 1rem;
-  color: #6f212b;
+  color: #6f6321;
   margin-bottom: 10px;
   white-space: pre-wrap;
   word-wrap: break-word;
@@ -102,7 +102,7 @@ form button {
 .note button {
   position: relative;
   float: right;
-  color: #f88651;
+  color: #b4420e;
   border: none;
   background: none;
   cursor: pointer;
